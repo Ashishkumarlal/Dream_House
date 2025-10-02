@@ -1,9 +1,8 @@
 body {
     font-family: 'Inter', sans-serif;
-    background-color: #f8fafc; /* Tailwind gray-50 */
+    background-color: #f8fafc;
 }
 
-/* Custom animation classes */
 .fade-in-up {
     opacity: 0;
     transform: translateY(20px);
