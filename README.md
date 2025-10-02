@@ -4,7 +4,7 @@ Dream Homes is a fully responsive, modern single-page real estate website. This 
 
 ### ✨ [Live Demo](https://ashishkumarlal.github.io/Dream_House/) ✨
 
-![Dream Homes Screenshot](./screenshot.png)
+![Dream Homes Screenshot](./homepage.png)
 ---
 
 ## Key Features
